@@ -1,0 +1,5 @@
+Dumbo is a(n) elephant
+Balto is a(n) dog
+Kaa is a(n) python
+Nick is a(n) fox
+Remy is a(n) rat
